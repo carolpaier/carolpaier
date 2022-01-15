@@ -2,9 +2,9 @@
 
 💻 Atualmente estou trabalhando como QA e Tester
 
-🤓 Estou estudando Testes automatizados e me aventurando pelo mundo de desenvolvimento web
+🤓 Estou estudando Testes Automatizados e me aventurando pelo mundo de Desenvolvimento Web
 
-🎓 Sou estudante de Análise e desenvlvimento de sistemas
+🎓 Sou estudante de Análise e desenvolvimento de sistemas
 
 📒 Profissional Contábil em transição para o mundo de QA!
 
