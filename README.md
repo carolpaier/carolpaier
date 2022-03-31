@@ -1,10 +1,10 @@
 ### Olá, eu sou a Carol Paier 👩🏾🖐🏾
 
-💻 Atualmente estou trabalhando como QA e Tester
+💻 Trabalho como QA e Tester
 
-🤓 Estou estudando Testes Automatizados e me aventurando pelo mundo de Desenvolvimento Web
+🤓 Estudo Testes Automatizados e me aventurando pelo mundo de Desenvolvimento Web
 
-🎓 Sou estudante de Análise e desenvolvimento de sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 📒 Profissional Contábil em transição para o mundo de QA!
 
