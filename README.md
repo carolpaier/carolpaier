@@ -2,7 +2,7 @@
 
 💻 Trabalho como Trainee QA 
 
-🤓 Estudo Testes Automatizados e me aventurando pelo mundo de Desenvolvimento Web
+🤓 Estudo Testes Automatizados e me aventuro pelo mundo de Desenvolvimento Web
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Ciências Contábeis
 
