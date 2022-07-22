@@ -6,7 +6,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Ciências Contábeis
 
-📊 Especialista em sistemas contábeis, financeiros e de pagamentos
+📊 Experiência em sistemas contábeis, financeiros e de pagamentos
 
 <div align="center">
   <a href="https://github.com/carolpaier">
