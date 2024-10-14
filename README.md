@@ -1,19 +1,28 @@
 ## Olá, seja bem-vindo(a) ao meu perfil 🙋🏾‍♀️♾️
 
-Sou a Carol, pessoa autista, apaixonada pela área da qualidade! 
+Sou a Carol, pessoa autista (TEA/AH), apaixonada pela área da qualidade, palestrante e coordenadora em eventos da área tech.
 
-Sou uma profissional dedicada e comprometida em aprender constantemente para contribuir com a equipe de desenvolvimento e garantir a qualidade do produto final. Atuo como administradora de duas comunidades de QA, sou coordenadora de eventos como o The Dvelopers Conference e palestrante.
+Sou especialista em engenharia de software com ênfase em qualidade e testes, formada em análise e desenvolvimento de sistemas, pós-graduada em engenharia e planejamento Devops e MBA em gestão de projetos e metodologias ágeis. Atualmente cursando o bacharelado em engenharia de software.
 
-Minha experiência como QA inclui a criação e execução de casos de testes, análise de requisitos e regras de negócio, testes funcionais, testes exploratórios, testes manuais, testes de regressão, testes de API, reporte de bugs e documentação de projetos, consultas em banco de dados, versionamento de aplicações, automação de testes com robot framework.
-Possuo um amplo conhecimento em regras de negócios de sistemas financeiros e sistemas de gestão empresarial, o que me permite entender as necessidades do cliente e garantir que as soluções desenvolvidas atendem às suas expectativas.
+Entusiasta em disseminar conhecimento para melhoria de processos e implantação da cultura de qualidade na equipe de desenvolvimento.
 
-### Certificações: CTFL e SFPC
+Minha experiência como QA inclui análise de requisitos e regras de negócio, planejamento e execução de casos de testes, testes funcionais e não funcionais, testes de sistemas desktop, web e mobile, testes de API, reporte de bugs e documentação de projetos, consultas em banco de dados relacionais e não relacionais, análise de logs, versionamento de aplicações e demais atividades do setor.
 
-🎓 Análise e Desenvolvimento de Sistemas | Ciências Contábeis | Gestão Financeira
+Com formação e experiência anterior de 8 anos na área contábil, possuo amplo conhecimento em regras de negócios de sistemas financeiros de gestão empresarial, o que me permite entender as necessidades do cliente e garantir que as soluções desenvolvidas atendam às suas expectativas.
 
-🎓 Especialista em Engenharia de Software com Ênfase em Qualidade e Testes
+### 💡 Top Software Testing and Quality Assurance Voice - LinkedIn
+ 
+### Certificações: CTFL | SFPC | Management 3.0
 
-🎓 Cursando MBA em Gestão de Projetos e Metodologias Ágeis
+🎓 Ciências Contábeis | Gestão Financeira - Ulbra
+
+🎓 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul
+
+🎓 Especialista em Engenharia de Software com Ênfase em Qualidade e Testes | Engenharia e Planejamento Devops - Vincit
+
+🎓  MBA em Gestão de Projetos e Metodologias Ágeis - PUCRS
+
+🎓 Cursando Engenharia de Software - Gran Faculdade
 
 Conhecimento em Planejamento e estratégias de testes, HTML, CSS, SQL, JavaScript, Java, Cypress, Selenium, Robot Framework,Gherkin Jira, Azure Devops, Postman, BDD.
 
