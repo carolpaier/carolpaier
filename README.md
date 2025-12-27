@@ -1,8 +1,6 @@
-## Olá, seja bem-vindo(a) ao meu perfil 🙋🏾‍♀️♾️
+## Olá, seja bem-vindo(a) ao meu perfil 
 
-Sou a Carol, pessoa autista (TEA/AH), apaixonada pela área da qualidade, palestrante e coordenadora em eventos da área tech.
-
-Sou especialista em engenharia de software com ênfase em qualidade e testes, formada em análise e desenvolvimento de sistemas, pós-graduada em engenharia e planejamento Devops e MBA em gestão de projetos e metodologias ágeis. Atualmente cursando o bacharelado em engenharia de software.
+Sou a Carol, especialista em engenharia de software com ênfase em qualidade e testes, formada em análise e desenvolvimento de sistemas, pós-graduada em engenharia e planejamento Devops e MBA em gestão de projetos e metodologias ágeis. Atualmente cursando o bacharelado em engenharia de software.
 
 Entusiasta em disseminar conhecimento para melhoria de processos e implantação da cultura de qualidade na equipe de desenvolvimento.
 
@@ -12,9 +10,10 @@ Com formação e experiência anterior de 8 anos na área contábil, possuo ampl
 
 ### 💡 Top Software Testing and Quality Assurance Voice - LinkedIn
  
-### Certificações: CTFL | SFPC | Management 3.0
+### Certificações: CTFL-AT | SFPC | Management 3.0
 
-🎓 Ciências Contábeis | Gestão Financeira - Ulbra
+🎓 Cursando Engenharia de Software - Gran Faculdade e MBA em Gestão de pessoas e liderança
+
 
 🎓 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul
 
@@ -22,15 +21,17 @@ Com formação e experiência anterior de 8 anos na área contábil, possuo ampl
 
 🎓  MBA em Gestão de Projetos e Metodologias Ágeis - PUCRS
 
-🎓 Cursando Engenharia de Software - Gran Faculdade
+🎓 Ciências Contábeis | Gestão Financeira - Ulbra
+
+
 
 Conhecimento em Planejamento e estratégias de testes, HTML, CSS, SQL, JavaScript, Java, Cypress, Selenium, Robot Framework,Gherkin Jira, Azure Devops, Postman, BDD.
 
 
 <div> 
 <a href = "mailto:carolinelopespaier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://instagram.com/carolpaier.qa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolinepaier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/carolpaier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolpaier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 ![Snake animation](https://github.com/carolpaier/carolpaier/blob/output/github-contribution-grid-snake.svg)
  
