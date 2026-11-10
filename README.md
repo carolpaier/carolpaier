@@ -50,7 +50,11 @@ Se você organiza um evento, procura alguém para falar sobre qualidade, IA ou a
 <a href="https://medium.com/@carolpaier"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:carolpaier.tech@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail"></a>
 
+## Minhas contribuições
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolpaier/carolpaier/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/carolpaier/carolpaier/output/github-contribution-grid-snake.svg" alt="Animação de uma cobrinha percorrendo e comendo o gráfico de contribuições do GitHub">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolpaier/carolpaier/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/carolpaier/carolpaier/output/pacman-contribution-graph.svg" alt="Animação do Pac-Man percorrendo meu gráfico de contribuições do GitHub e comendo os quadradinhos dos dias com contribuição.">
 </picture>
+
+O Pac-Man percorre meu gráfico de contribuições do último ano: cada quadradinho que ele come é um dia em que contribuí no GitHub. A animação se atualiza sozinha a cada 12 horas.
