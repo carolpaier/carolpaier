@@ -1,4 +1,4 @@
-# Olá, eu sou a Carol 👋
+# Olá, eu sou a Carol 
 
 **Especialista em Qualidade de Software · IA e acessibilidade**
 
