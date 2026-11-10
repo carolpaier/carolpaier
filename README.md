@@ -18,7 +18,7 @@ Sou certificada **ISTQB CTFL-AT** e **CT-GenAI**, com formação contínua em En
 
 Plataforma de IA para análise de requisitos e planejamento de testes. Você cola a história ou o requisito, escolhe os módulos de análise e recebe pontos de atenção, riscos, cenários de teste em Gherkin e barreiras de acessibilidade pela WCAG 2.2 AA. É gratuita, funciona com a sua própria chave de IA e tem um modo de demonstração que dispensa chave.
 
-[Experimentar o QA Planning](https://www.qaplanning.ia.br/) · [Ver o código](https://github.com/carolpaier/qaplanning-public)
+[Experimentar o QA Planning](https://www.qaplanning.ia.br/) · [Ver mais detalhes do projeto](https://github.com/carolpaier/qaplanning-public)
 
 <img src="https://www.carolpaier.com.br/projetos/qaplanning/riscos.webp" width="720" alt="Tela do QA Planning com uma história de usuário sobre filtro de produtos por faixa de preço à esquerda e os módulos de análise selecionados. À direita, a aba Riscos lista dois riscos, cada um com sua mitigação.">
 
@@ -26,11 +26,11 @@ Plataforma de IA para análise de requisitos e planejamento de testes. Você col
 
 | Área | Ferramentas |
 | --- | --- |
-| Automação e API | Maestro, Cypress, Postman |
+| Automação e API | Maestro, Cypress, Postman, Insomnia |
 | Mobile | Android Studio, iOS, Firebase |
-| Observabilidade e dados | Dynatrace, Kibana, GA4, MongoDB, SQL |
-| E-commerce | VTEX, Shopify |
-| Gestão e processos | Jira, Azure DevOps, BDD/Gherkin |
+| Observabilidade e Dados | Dynatrace, Kibana, Rancher, Grafana, GA4, MongoDB, SQL |
+| E-commerce | VTEX, Shopify, Magento, Oracle Commerce Cloud |
+| Gestão e processos | Jira, Azure DevOps, Qase |
 
 ## Portfólio
 
