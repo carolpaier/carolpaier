@@ -50,4 +50,7 @@ Se você organiza um evento, procura alguém para falar sobre qualidade, IA ou a
 <a href="https://medium.com/@carolpaier"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:carolpaier.tech@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail"></a>
 
-![Animação de uma cobrinha percorrendo e comendo o gráfico de contribuições do GitHub](https://github.com/carolpaier/carolpaier/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolpaier/carolpaier/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/carolpaier/carolpaier/output/github-contribution-grid-snake.svg" alt="Animação de uma cobrinha percorrendo e comendo o gráfico de contribuições do GitHub">
+</picture>
